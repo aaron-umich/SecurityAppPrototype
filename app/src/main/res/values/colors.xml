@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- iphone_12__12_pro___1 colors -->
+
+	<color name="colorPrimary">#008577</color>
+	<color name="colorPrimaryDark">#00574B</color>
+	<color name="colorAccent">#D81B60</color>
+
+	<color name="_bg__iphone_12__12_pro___1_ek2_color">#1e2222</color>
+	<color name="rectangle_color">#000000</color>
+	<color name="battery_percent_color">#000000</color>
+	<color name="___sign_in_with_apple_color">#696969</color>
+	<color name="rectangle_1478_color">#ffffff</color>
+	<color name="button_shape_ek1_color">#3a5998</color>
+	<color name="___sign_in_with_apple_ek1_color">#ffffff</color>
+	<color name="_rectangle_1469_color">#b2002d</color>
+	<color name="iview_color">#b2002d</color>
+	<color name="rectangle_1616_color">#6a6a6a</color>
+	<color name="shadow_color">#121212</color>
+	<color name="primary_color">#6200ee</color>
+	<color name="____caption_ek33_color">#ff0202</color>
+	<color name="____caption_ek62_color">#ff0000</color>
+	<color name="____caption_ek66_color">#ff4141</color>
+	<color name="purple_200">#d800ff</color>
+	<color name="purple_500">#d800ff</color>
+	<color name="purple_700">#86019e</color>
+	<color name="white">#ffffff</color>
+	<color name="teal_200">#00e3cb</color>
+	<color name="teal_700">#00cbb5</color>
+	<color name="black">#000000</color>
+</resources>

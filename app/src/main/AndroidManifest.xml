@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+	package="exportkit.xd" >
+
+	
+
+	<application
+		android:allowBackup="true"
+		android:theme="@style/AppTheme"
+		android:label="@string/app_name" >
+		<activity
+		android:name=".iphone_12__12_pro___1_activity"
+		android:configChanges="orientation|keyboardHidden|screenSize"
+		android:label="@string/app_name"
+		android:exported="true"	>
+			<intent-filter>
+				<action android:name="android.intent.action.MAIN" />
+				<category android:name="android.intent.category.LAUNCHER" />
+			</intent-filter>
+		</activity>
+
+			<activity android:name="exportkit.xd.iphone_12__12_pro___2_activity"></activity>
+			<activity android:name="exportkit.xd.iphone_12__12_pro___3_activity"></activity>
+			<activity android:name="exportkit.xd.iphone_12__12_pro___4_activity"></activity>
+			<activity android:name="exportkit.xd.iphone_12__12_pro___7_activity"></activity>
+			<activity android:name="exportkit.xd.iphone_12__12_pro___8_activity"></activity>
+			<activity android:name="exportkit.xd.iphone_12__12_pro___9_activity"></activity>
+			<activity android:name="exportkit.xd.iphone_12__12_pro___10_activity"></activity>
+			<activity android:name="exportkit.xd.iphone_12__12_pro___6_activity"></activity>
+			<activity android:name="exportkit.xd.iphone_12__12_pro___11_activity"></activity>
+			<activity android:name="exportkit.xd.iphone_12__12_pro___12_activity"></activity>
+			<activity android:name="exportkit.xd.iphone_12__12_pro___13_activity"></activity>
+			<activity android:name="exportkit.xd.iphone_12__12_pro___14_activity"></activity>
+			<activity android:name="exportkit.xd.iphone_12__12_pro___15_activity"></activity>
+			<activity android:name="exportkit.xd.iphone_12__12_pro___16_activity"></activity>
+			<activity android:name="exportkit.xd.iphone_12__12_pro___17_activity"></activity>
+			<activity android:name="exportkit.xd.iphone_12__12_pro___18_activity"></activity>
+			<activity android:name="exportkit.xd.iphone_12__12_pro___19_activity"></activity>
+			<activity android:name="exportkit.xd.iphone_12__12_pro___20_activity"></activity>
+			<activity android:name="exportkit.xd.iphone_12__12_pro___21_activity"></activity>
+	</application>
+
+</manifest>
+	
+	
